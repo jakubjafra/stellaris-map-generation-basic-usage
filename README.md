@@ -15,7 +15,14 @@ node server.js
 Demo
 ----
 
-From this game state:
-...
-It generates such charts:
-...
+From such a game state:
+![Game state](https://raw.githubusercontent.com/khronedev/stellaris-map-generation-basic-usage/master/samples/test/showcase/game_screen_shot.png)
+
+It can generate charts:
+![Generated charts](https://raw.githubusercontent.com/khronedev/stellaris-map-generation-basic-usage/master/samples/test/showcase/generated_regions.png)
+
+Take special look at different regions that are highlighted:
+1) Top left corner - independent beings in galaxy (alliances and independent empires)
+2) Top right corner - sectors
+3) Bottom left corner - empires
+4) Bottom right corner - individual solar systems colored by number of pops living there
