@@ -18,7 +18,7 @@ Demo
 From such a game state:
 ![Game state](https://raw.githubusercontent.com/khronedev/stellaris-map-generation-basic-usage/master/samples/test/showcase/game_screen_shot.png)
 
-It can generate charts:
+Generated charts:
 ![Generated charts](https://raw.githubusercontent.com/khronedev/stellaris-map-generation-basic-usage/master/samples/test/showcase/generated_regions.png)
 
 Take special look at different regions that are highlighted:
