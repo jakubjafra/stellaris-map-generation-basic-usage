@@ -62,6 +62,4 @@ typings/
 ~*
 .DS_Store
 .idea
-backend/utils/star-graph/tests
-backend/samples
 dist
